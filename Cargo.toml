@@ -5,3 +5,4 @@ authors = ["Zacharie Day <day@gwu.edu>"]
 edition = "2018"
 
 [dependencies]
+quicksilver = "*"
